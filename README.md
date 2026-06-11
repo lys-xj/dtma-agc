@@ -1,5 +1,11 @@
 # dtma-agc
 Deep Attributed Graph Clustering with Dynamic Topology Optimization and Multi-Level Attention: Dynamic Topology Module (DTM) , Lightweight Dimensional Attention (DA)and Hierarchical Attention Fusion (HAF)
+## Environment
+Python 3.8  
+PyTorch 1.13.1  
+CUDA 11.7
+## Install
+pip install -r requirements.txt
 ## Run
 1. Download the file locally and open it in Python
 2. Run the pretrain.py file directly
